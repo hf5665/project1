@@ -1,0 +1,1 @@
+git clone ssh://rtdhcgit.realtek.com:29418/build_scripts -b 20200707 build_scirpts
